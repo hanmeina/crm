@@ -4,7 +4,7 @@
 		<property name="driverClass">com.mysql.jdbc.Driver</property>
 		<property name="user">root</property>
 		<property name="password">1234</property>
-		<property name="jdbcUrl">jdbc:mysql://127.0.0.1:3306/mydb2?useUnicode=true&amp;characterEncoding=UTF-8</property>
+		<property name="jdbcUrl">jdbc:mysql://127.0.0.1:3306/mydb3?useUnicode=true&amp;characterEncoding=UTF-8</property>
 	</default-config>
 </c3p0-config>
 
